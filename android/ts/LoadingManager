@@ -1,0 +1,6 @@
+{
+  "TextButtonStyle": {
+    "default": { "parent": "default", "font": "default-font", "fontColor": "white", "disabledFontColor": "gray" },
+    "toggle": { "parent": "default", "checked": "default-round-down", "downFontColor": "red" }
+  }
+}
